@@ -22,17 +22,17 @@ In order to make changes to this repository:
 
    Run the following command, replacing <repository_url> with the URL you copied:
 
-    git clone <repository_url>
+            git clone <repository_url>
 
 3. Add a Remote:
 
   Navigate into the cloned repository with:
 
-    cd <repository_name>
+            cd <repository_name>
 
 4. Add the original repository as a remote, so you can pull changes from it:
 
-    git remote add upstream <original_repository_url>
+           git remote add upstream <original_repository_url>
 
 5. Create a Branch:
 
