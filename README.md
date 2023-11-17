@@ -7,6 +7,8 @@ Project helpers: [Jon Lindenmann, linjon06@uw.edu, linjon]: [Aiman Shamsul,aiman
 Project GitHub: nicole-m-aikin/ML-Geo-Pixel-Poppers
 
 
+## Making changes to the repo:
+
 In order to make changes to this repository:
 
 1. Fork the Repository:
