@@ -68,6 +68,6 @@ In order to make changes to this repository:
 
     Collaboration and Merging:
         The owner of the original repository will review your changes.
-        If everything looks good, they can merge your changes into the main branch. (Nicole, Aiman, and Jon all have owner access and can          accept pull requests. 
+        If everything looks good, they can merge your changes into the main branch. (Nicole, Aiman, and Jon all have owner access and can          accept pull requests.)
 
 Remember to keep your fork updated with the original repository by periodically fetching changes from the upstream and merging them into your local and forked branches.
