@@ -10,7 +10,7 @@ Project GitHub: nicole-m-aikin/ML-Geo-Pixel-Poppers
 ## Making changes to the repo:
 
 In order to make changes to this repository:
-
+### Do steps 1-4 once:
 1. Fork the Repository:
         Go to https://github.com/nicole-m-aikin/ML-Geo-Pixel-Poppers
         Click the "Fork" button in the upper right corner of the repository's page. This creates a copy (fork) of the repository under your GitHub account.
@@ -34,27 +34,29 @@ In order to make changes to this repository:
 
            git remote add upstream <original_repository_url>
 
-5. Create a Branch:
+
+
+6. Create a Branch:
 
     Create a new branch for your changes:
 
        git checkout -b feature_branch
 
-6. Make Changes:
+7. Make Changes:
 
     Make the necessary changes to the code using your preferred editor.
 
-7. Commit Changes:
+8. Commit Changes:
 
     Stage the changes:
 
         git add .
 
-8. Commit the changes:
+9. Commit the changes:
 
         git commit -m "Your commit message here"
 
-9. Push Changes to Your Fork:
+10. Push Changes to Your Fork:
 
     Push your changes to your fork on GitHub:
 
