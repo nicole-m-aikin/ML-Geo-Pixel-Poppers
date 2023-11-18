@@ -78,7 +78,7 @@ When you are ready, **commit** your changes with a summary message:
 
 Now your local repository is officially changed. You'll want to **push** these changes back to your fork, and then **push** them back to the original repo.
 
-10. Push Changes to Your Fork:
+6. Push Changes to Your Fork:
     You've made a bunch of changes and now you want to send them back to the original repository. 
 
     Push your changes to your fork on GitHub in any number of ways:
