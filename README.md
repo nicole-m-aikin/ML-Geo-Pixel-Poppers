@@ -8,7 +8,9 @@ Project GitHub: nicole-m-aikin/ML-Geo-Pixel-Poppers
 
 
 ## Making changes to the repo (the proper way):
-Note that **remote** repositories are somewhere like GitHub, while **local** repositories are on your system. When you **clone** a **remote** repository, you now have a **local** repository that contains a _reference_, or link, to the **remote** repository, allowing you send and receive changes. Please refer to the **Git Cheatsheet** in this repo for a list of useful git commands. 
+**Note:** ***Always*** make sure your local repo is up to date with the original remote repo (**pull** with `git pull https://github.com/nicole-m-aikin/ML-Geo-Pixel-Poppers/`) before you **push** your local changes to the original remote repo. Otherwise you may overwrite other changes.
+
+**Note** that **remote** repositories are somewhere like GitHub, while **local** repositories are on your system. When you **clone** a **remote** repository, you now have a **local** repository that contains a _reference_, or link, to the **remote** repository, allowing you send and receive changes. Please refer to the **Git Cheatsheet** in this repo for a list of useful git commands. 
 
 In order to work on this repository, you want:
 - to have your own copy to work on (**forking** and **cloning**)
