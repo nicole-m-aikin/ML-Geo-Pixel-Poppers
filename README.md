@@ -4,7 +4,7 @@ This is a github repository for our final project for ML Geo Au 23
 ESS 469/569: ML Geo Au 23
 Project lead: **Nicole Aikin**, [naikin@uw.edu], [nicole-m-aikin](https://github.com/nicole-m-aikin)
 Project helpers: **Jonathan Lindenmann**, [linjon06@uw.edu], [Jon's GitHub](https://github.com/UW-ESS-DS/MLGeo-23_linjon), **Aiman Shamsul**, [aiman188@uw.edu], [AimanHS](https://github.com/AimanHS)
-Project GitHub: nicole-m-aikin/ML-Geo-Pixel-Poppers
+Project GitHub: [nicole-m-aikin/ML-Geo-Pixel-Poppers](https://github.com/nicole-m-aikin/ML-Geo-Pixel-Poppers/)
 
 
 ## Making changes to the repo (the proper way):
